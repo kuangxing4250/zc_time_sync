@@ -1,0 +1,13 @@
+{
+  "ntp_servers": [
+    "time1.aliyun.com",
+    "time2.aliyun.com",
+    "time3.aliyun.com",
+    "time4.aliyun.com",
+    "pool.ntp.org"
+  ],
+  "time_offset": 8,
+  "auto_sync": false,
+  "retry_count": 3,
+  "sync_interval": 3600
+}
